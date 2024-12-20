@@ -16,7 +16,7 @@ date: 2024-12-30
 
 
 **ML & NN Courses**
-- (Coursera) Andrew Ng - Machine learning specialization (studyng---)
+- (Coursera) Andrew Ng - Machine learning specialization (24.11 ~)
 
 
 
