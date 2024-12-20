@@ -1,14 +1,14 @@
 ---
 title: "Learning curriculm and materials for python and machine learning"
 
-categories: Basics
+categories: [Basics]
 
-tag: 
+tag: [python, machine learning, neural networks, computer vision]
 
 toc: true
 toc_sticky: true
 
-date: 2024-12-30
+date: 2024-12-30 19:00:00 +0900
 ---
 **Python Fundamentals**
 - https://www.learnpython.org/
